@@ -1,4 +1,29 @@
+\---
+
+title: What is Jekyll? How to use it?
+
+layout: post
+
+post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+
+description: Jekyll is a static site generator. You give it text written in your favorite
+
+  markup language and it uses layouts to create a static website.
+
+tags:
+
+\- jekyll
+
+\- informative
+
+\- technology
+
+\---
+
+
+
 ## 计组~~复习~~补天整理 --Kaill
+
 > 期末考试允许带一张A4纸手写笔记入场，笔记署名，笔记试卷草稿纸都要交，考试范围以ppt为主,ppt中的计算题都得熟悉
 
 ### Chapter 01
