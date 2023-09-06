@@ -1,6 +1,9 @@
 # WhatATheme
 markdown: kramdown
 
+kramdown:
+  math_engine: katex
+
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
